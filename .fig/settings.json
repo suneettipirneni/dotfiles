@@ -1,0 +1,6 @@
+{
+  "autocomplete.disable" : false,
+  "autocomplete.fontFamily" : "JetBrains Mono",
+  "autocomplete.theme" : "system",
+  "userShell" : "\/bin\/zsh"
+}
